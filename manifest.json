@@ -1,6 +1,6 @@
 {
   "name": "New Tab Embed",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "manifest_version": 2,
   "description": "Embeds any website you want directly into your new tab page",
   "icons": {
